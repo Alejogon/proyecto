@@ -1,5 +1,10 @@
+<!--    Autor: Henry Alejandro Gonzalez Torres
+        Fecha: Abril 2025
+        Módulo: FrontEnd
+        Politécnico Gran Colombiano
+        Proyecto: Smiles - Clínica Dental-->
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -24,17 +29,14 @@
         <link
             href="css/cuerpo.css"
             rel="stylesheet"
-        />
-        
+        />       
 </head>
 <body>
     <header>
         <!--  navbar here -->
         <?php include_once 'encabezado_public.php' ?>
     </header>
-
      <!-- content here -->
-
      <div >
         <div class="imagen">
             <image src="img/homeImg.jpg" alt="equipo"  width="800px">
@@ -43,10 +45,6 @@
             <image src="img/logoDental.png" alt="equipo" class="img-fluid" width="800px">
         </div>
      </div>
-
-        
-
-
     <footer>
          <!-- Footer here -->
          <?php include_once 'footer.php' ?>

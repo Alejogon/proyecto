@@ -1,3 +1,8 @@
+<!--    Autor: Henry Alejandro Gonzalez Torres
+        Fecha: Abril 2025
+        Módulo: FrontEnd
+        Politécnico Gran Colombiano
+        Proyecto: Smiles - Clínica Dental-->
 <!doctype html>
 <html lang="en">
     <head>
@@ -41,8 +46,18 @@
                             <img src="img/ortodoncia.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Ortodoncia</h5>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <p class="card-text">La ortodoncia no solo mejora la estética 
+                                                    dental, también puede prevenir problemas 
+                                                    de salud bucal, como el apiñamiento dental 
+                                                    y la mala mordida, que pueden causar caries, 
+                                                    enfermedades de las encías, dolor de cabeza y 
+                                                    otros problemas de salud.
+                                                    Utilizamos la ultima tecnologia, casi invisible, 
+                                                    alineadores son removibles, limpieza bucal 
+                                                    sencilla y eficaz, sin controles mensauales
+
+                                </p>
+                                <a href="#" class="btn btn-primary">Ver mas...</a>
                             </div>
                         </div>
                     </div>
@@ -52,8 +67,14 @@
                             <img src="img/periodoncia.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Periodoncia</h5>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <p class="card-text">La endodoncia o tratamiento de conductos, 
+                                                    es un procedimiento odontológico destinado 
+                                                    a tratar la pulpa dental cuando está dañada o 
+                                                    infectada, esto puede generarse debido a distintos 
+                                                    factores como caries profunda, traumatismos o 
+                                                    fracturas en el diente.
+                                </p>
+                                <a href="#" class="btn btn-primary">Ver mas...</a>
                             </div>
                         </div>
                     </div>
@@ -65,8 +86,13 @@
                             <img src="img/rehabilitacion.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Rehabilitación</h5>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <p class="card-text">La rehabilitación oral combina una variedad 
+                                                    de tratamientos y procedimientos con el objetivo 
+                                                    de restaurar la función, la estética y la salud 
+                                                    oral, devuelve la capacidad de masticar y 
+                                                    triturar los alimentos de manera efectiva mejorando 
+                                                    la calidad de vida de los pacientes.</p>
+                                <a href="#" class="btn btn-primary">Ver mas...</a>
                             </div>
                         </div>
                     </div>

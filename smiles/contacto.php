@@ -1,7 +1,12 @@
+<!--    Autor: Henry Alejandro Gonzalez Torres
+        Fecha: Abril 2025
+        Módulo: FrontEnd
+        Politécnico Gran Colombiano
+        Proyecto: Smiles - Clínica Dental-->
 <!doctype html>
 <html lang="en">
     <head>
-        <title>Nuevo Usuario</title>
+        <title>Contactanos</title>
         <link rel="icon" href="img/favico.png" type="image/x-icon">
         <!-- Required meta tags -->
         <meta charset="utf-8" />
@@ -62,7 +67,7 @@
                                 />
                             </div>
                             <div class="mb-3">
-                                <label for="phone" class="form-label">Telefono</label>
+                                <label for="phone" class="form-label">Teléfono</label>
                                 <input
                                     type="number"
                                     class="form-control"
