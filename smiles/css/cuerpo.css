@@ -1,0 +1,53 @@
+.imagen {
+    padding: 20px 0;
+    position: relative;
+    left: 300px;
+    width: 800px;
+}
+.logo {
+    padding: 20px 0;
+    position: absolute;
+    left: 820px;
+    width: 800px;
+    top: 150px;
+
+}
+#texto {
+    padding: 20px 0;
+    background-color: rgba(255, 255, 255, 0.349);
+    position: absolute;
+    left: 600px;
+    width: 800px;
+    top: 380px;
+}
+.imagen2{
+    padding: 20px 0;
+    position: relative;
+    left: 1100px;
+    width: 800px;
+}
+#texto2 {
+    padding: 20px 0;
+    background-color: rgba(255, 255, 255, 0.349);
+    position: absolute;
+    left: 400px;
+    width: 800px;
+    top: 800px;
+    text-align: right;
+}
+#texto3 {
+    padding: 20px 0;
+    background-color: rgba(255, 255, 255, 0.349);
+    position: absolute;
+    left: 600px;
+    width: 800px;
+    top: 1250px;
+}
+#formulario {
+    padding: 20px 0;
+    background-color: rgba(255, 255, 255, 0.527);
+    position: absolute;
+    left: 650px;
+    width: 800px;
+    top: 200px;
+}
