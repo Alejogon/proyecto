@@ -1,3 +1,8 @@
+<!--    Autor: Henry Alejandro Gonzalez Torres
+        Fecha: Abril 2025
+        Módulo: FrontEnd
+        Politécnico Gran Colombiano
+        Proyecto: Smiles - Clínica Dental-->
 <!doctype html>
 <html lang="en">
     <head>
@@ -85,7 +90,7 @@
                                 <input name="btningresar" type="submit" class="btn btn-primary" value="Iniciar Sesion"/>
                             </div>
                             <div class="my-3">
-                                <span>¿No tienes cuenta? <a href="formnewuser.html">Registrate</a></span><br>
+                                <span>¿No tienes cuenta? <a href="registro.php">Registrate</a></span><br>
                                 <span>¿Olvidaste tu contraseña? <a href="#">Recuperar Contraseña</a></span>
                             </div>
 

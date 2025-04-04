@@ -1,3 +1,8 @@
+<!--    Autor: Henry Alejandro Gonzalez Torres
+        Fecha: Abril 2025
+        Módulo: FrontEnd
+        Politécnico Gran Colombiano
+        Proyecto: Smiles - Clínica Dental-->
 <!doctype html>
 <html lang="en">
     <head>
