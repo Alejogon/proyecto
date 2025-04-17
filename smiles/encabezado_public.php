@@ -9,7 +9,7 @@
                     <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
                     <ul class="navbar-nav">
                     <li class="nav-item">
-                            <a type="button" class="btn btn-outline-success me-2" href='index.php'>Inicio</a>
+                            <a type="button" class="btn btn-outline-success me-2" href='index'>Inicio</a>
                         </li>
                         <li class="nav-item">
                             <a type="button" class="btn btn-outline-success me-2" href='profesionales'>Profesionales</a>
