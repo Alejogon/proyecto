@@ -9,7 +9,7 @@
                     <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
                     <ul class="navbar-nav">
                     <li class="nav-item">
-                            <a type="button" class="btn btn-outline-success me-2" href='/view/view_agendar_especialidad'>Consultar Agenda por Especialista</a>
+                            <a type="button" class="btn btn-outline-success me-2" href='../view/view_agendar_especialidad'>Consultar Agenda por Especialista</a>
                         </li>
                         <li class="nav-item">
                             <a type="button" class="btn btn-outline-success me-2" href='/view/view_agendar'>Consultar agenda por fecha</a>
