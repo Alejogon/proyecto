@@ -12,18 +12,18 @@
                             <a type="button" class="btn btn-outline-success me-2" href='index.php'>Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a type="button" class="btn btn-outline-success me-2" href='profesionales.php'>Profesionales</a>
+                            <a type="button" class="btn btn-outline-success me-2" href='profesionales'>Profesionales</a>
                         </li>
                         <li class="nav-item">
-                            <a type="button" class="btn btn-outline-success me-2" href='servicios.php'>Servicios</a>
+                            <a type="button" class="btn btn-outline-success me-2" href='servicios'>Servicios</a>
                         </li>
                         <li class="nav-item">
-                            <a type="button" class="btn btn-outline-success me-4" href='contacto.php'>Contactenos</a>
+                            <a type="button" class="btn btn-outline-success me-4" href='contacto'>Contactenos</a>
                         <li class="nav-item">
-                            <a type="button" class="btn btn-primary me-2" href='login.php'>Acceder</a>
+                            <a type="button" class="btn btn-primary me-2" href='login'>Acceder</a>
                         </li>
                         <li class="nav-item">
-                            <a type="button" class="btn btn-outline-primary" href='registro.php'>Registrarse</a>
+                            <a type="button" class="btn btn-outline-primary" href='registro'>Registrarse</a>
                         </li>
                     </ul>
                     </div>
