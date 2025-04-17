@@ -45,8 +45,7 @@ if(empty($_SESSION['id'])){
         </main>
         <footer>
             <!-- place footer here -->
-            <a href="https://wa.me/573138965830" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
-
+            
         </footer>
         <!-- Bootstrap JavaScript Libraries -->
         <script
